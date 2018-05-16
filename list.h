@@ -1,6 +1,6 @@
 
-#ifndef LINKEDLIST_H
-#define LINKEDLIST_H
+#ifndef LIST_H
+#define LIST_H
 
 class list{
   private:
